@@ -92,5 +92,5 @@ Acesse a interface visual para testes de chamadas HTTP:
 **Marcos Vinicius**
 *Estudante de Engenharia de Software | Desenvolvedor full stack*
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/MarcosSoftwareEngineering)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-ten-pied-x4n6outkgn.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/marcos-code-sys)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://marcos-code-sys.github.io/siteSensorial/)
